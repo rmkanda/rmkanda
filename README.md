@@ -1,4 +1,12 @@
-### Hi there 👋
+![banner](About_Me.gif)
+
+## 🖥 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+
+- 🔭 I’m currently working at [ThoughtWorks](http://thoughtworks.com/)
+- 🌱 I’m currently learning Rust
+- 👯 I’m looking to collaborate on OSS Security Tools
+- 🤔 I’m looking for help with Writing Vulnerability Scanner
+- 😄 you can call me as: Ramki
 
 <!--
 **rmkanda/rmkanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
